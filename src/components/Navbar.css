@@ -128,7 +128,7 @@ a{
     .container {
         max-width: 89%;
         padding: 10px;
-        /*margin: auto;*/
+        margin: auto;
     }
     img {
         width: 200px;
